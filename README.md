@@ -26,5 +26,5 @@
 ---
 
 ### 🏔 Github
-<img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=BestJarvan&show_icons=true&theme=react">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai&layout=compact&theme=react" />
+<img align="left" width="53%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=BestJarvan&show_icons=true&theme=react">
+<img width="40%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=dongyuanwai&layout=compact&theme=react" />
