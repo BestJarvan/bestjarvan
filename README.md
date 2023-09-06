@@ -27,9 +27,9 @@
 ---
 <!-- github-readme-stats.vercel.app -->
 ### 🏔 Github
-<a target="_blank" href="https://github-readme-stats-bestjarvan.vercel.app/api?username=BestJarvan&show_icons=true&theme=react">
+<a href="javascript:;">
   <img height=200 align="center" src="https://github-readme-stats-bestjarvan.vercel.app/api?username=BestJarvan&show_icons=true&theme=react">
 </a>
-<a target="_blank" href="https://github-readme-stats-bestjarvan.vercel.app/api/top-langs/?username=BestJarvan&layout=compact&langs_count=5&theme=react">
+<a href="javascript:;">
   <img height=200 align="center" src="https://github-readme-stats-bestjarvan.vercel.app/api/top-langs/?username=BestJarvan&layout=compact&langs_count=8&theme=react" />
 </a>
