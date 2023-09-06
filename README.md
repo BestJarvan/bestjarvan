@@ -31,5 +31,5 @@
   <img height=220 align="left" src="https://github-readme-stats-bestjarvan.vercel.app/api?username=BestJarvan&show_icons=true&theme=react">
 </a>
 <a href="https://github-readme-stats-bestjarvan.vercel.app/api/top-langs/?username=BestJarvan&layout=compact&langs_count=5&theme=react">
-  <img height=220 align="right" src="https://github-readme-stats-bestjarvan.vercel.app/api/top-langs/?username=BestJarvan&layout=compact&langs_count=5&theme=react" />
+  <img height=220 align="right" src="https://github-readme-stats-bestjarvan.vercel.app/api/top-langs/?username=BestJarvan&layout=compact&langs_count=8&theme=react" />
 </a>
