@@ -27,5 +27,5 @@
 ---
 <!-- github-readme-stats.vercel.app -->
 ### 🏔 Github
-<img align="left" width="51%" src="https://readme-stats.clckblog.space/api?username=BestJarvan&show_icons=true&theme=react">
-<img width="45%" src="https://readme-stats.clckblog.space/api/top-langs/?username=dongyuanwai&layout=compact&theme=react" />
+<img align="left" width="51%" src="https://github-readme-stats-bestjarvan.vercel.app/api?username=BestJarvan&show_icons=true&theme=react">
+<img width="45%" src="https://github-readme-stats-bestjarvan.vercel.app/api/top-langs/?username=BestJarvan&layout=compact&theme=react" />
