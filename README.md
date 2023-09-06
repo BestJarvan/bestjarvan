@@ -17,7 +17,8 @@
 ---
 
 ### ✏️ Recent Blog
-- [通过node调用Jenkins API完成构建过程](https://www.jiangyh.cn/2023/08/31/node/node-jenkins/index.html) / 2023-08-31
+- [从零搭建前端脚手架CLI工具](https://www.jiangyh.cn/2023/09/05/node/myself-cli/index.html) / 2023-09-05
+- [通过node调用Jenkins API完成构建过程](https://www.jiangyh.cn/2023/08/28/node/node-jenkins/index.html) / 2023-08-28
 - [微前端方案对比](https://www.jiangyh.cn/2022/12/25/vue/micro-frontends/index.html) / 2022-12-25
 - [手写call、apply、bind与this指向问题](https://www.jiangyh.cn/2022/08/15/js/%E6%89%8B%E5%86%99call%E3%80%81apply%E3%80%81bind%E4%B8%8Ethis%E6%8C%87%E5%90%91%E9%97%AE%E9%A2%98/index.html) / 2022-08-15
 - [Vue源码之init](https://www.jiangyh.cn/2022/04/10/vue/vue-init/index.html) / 2022-04-10
