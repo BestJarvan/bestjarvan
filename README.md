@@ -28,8 +28,8 @@
 <!-- github-readme-stats.vercel.app -->
 ### 🏔 Github
 <a href="https://github.com/BestJarvan">
-  <img height=200 align="center" src="https://github-readme-stats-bestjarvan.vercel.app/api?username=BestJarvan&show_icons=true&theme=react">
+  <img height=200 align="center" src="https://github-readme-stats-bestjarvan.vercel.app/api?username=BestJarvan&show_icons=true&theme=one_dark_pro&bg_color=00000000">
 </a>
 <a href="https://github.com/BestJarvan">
-  <img height=200 align="center" src="https://github-readme-stats-bestjarvan.vercel.app/api/top-langs/?username=BestJarvan&layout=compact&langs_count=8&theme=react" />
+  <img height=200 align="center" src="https://github-readme-stats-bestjarvan.vercel.app/api/top-langs/?username=BestJarvan&layout=compact&langs_count=8&theme=one_dark_pro&bg_color=00000000" />
 </a>
