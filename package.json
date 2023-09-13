@@ -19,7 +19,7 @@
   "dependencies": {
     "@actions/core": "^1.10.0",
     "@actions/github": "^5.1.1",
-    "@bestjarvan/github-readme-stats": "^1.0.0",
+    "@bestjarvan/github-readme-stats": "^1.0.1",
     "query-string": "^8.1.0"
   }
 }
