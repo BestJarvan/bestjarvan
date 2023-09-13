@@ -1,8 +1,11 @@
 name: GitHub Readme Stats
-on:
+on: [
   workflow_dispatch:
   schedule:
   - cron: 0 * * * *
+  ,
+  push
+]
 
 jobs:
   stats:
