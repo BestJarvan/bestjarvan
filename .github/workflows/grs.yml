@@ -1,5 +1,8 @@
 name: GitHub Readme Stats
-on: push
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: 0 * * * *
 
 jobs:
   stats:
@@ -10,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Generate Stats
-        uses: BestJarvan/BestJarvan
+        uses: ./
         id: generate
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -27,7 +30,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Generate Top Languages
-        uses: BestJarvan/BestJarvan
+        uses: ./
         id: generate
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
