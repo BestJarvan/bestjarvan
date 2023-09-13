@@ -1,6 +1,6 @@
 import * as core from '@actions/core'
 import * as github from '@actions/github'
-import * as githubReadmeStats from '@zo-bro-23/github-readme-stats-test'
+import * as githubReadmeStats from '@bestjarvan/github-readme-stats'
 import * as fs from 'fs'
 import queryString from 'query-string'
 import * as path from 'path'
