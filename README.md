@@ -27,11 +27,17 @@
 ---
 
 ### 🏔 Github
-<a href="https://github.com/BestJarvan">
+<!-- vercel 加载容易触发github cdn限流 导致首次加载失败 -->
+<!-- <a href="https://github.com/BestJarvan">
   <img height=200 align="center" src="https://vercel.jiangyh.cn/api?username=BestJarvan&show_icons=true&theme=one_dark_pro&bg_color=00000000">
 </a>
 <a href="https://github.com/BestJarvan">
   <img height=200 align="center" src="https://vercel.jiangyh.cn/api/top-langs/?username=BestJarvan&layout=compact&langs_count=8&theme=one_dark_pro&bg_color=00000000" />
-</a>
+</a> -->
 
-<!-- [![GitHub stats](https://github.com/BESTJARVAN/BESTJARVAN/raw/grs/stats.svg)](https://github.com/BESTJARVAN/github-readme-stats) -->
+<a href="https://github.com/BestJarvan/github-readme-stats">
+  <img height=200 align="center" src="https://github.com/BESTJARVAN/BESTJARVAN/raw/grs/stats.svg">
+</a>
+<a href="https://github.com/BestJarvan/github-readme-stats">
+  <img height=200 align="center" src="https://github.com/BESTJARVAN/BESTJARVAN/raw/grs/top-langs.svg" />
+</a>

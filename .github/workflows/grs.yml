@@ -15,7 +15,7 @@ jobs:
         id: generate
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          options: 'username=${{ github.repository_owner }}'
+          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=one_dark_pro&bg_color=00000000'
       - uses: actions/upload-artifact@master
         with:
           name: stats
@@ -32,7 +32,7 @@ jobs:
         id: generate
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          options: 'username=${{ github.repository_owner }}'
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=one_dark_pro&bg_color=00000000'
           card: 'top-langs'
       - uses: actions/upload-artifact@master
         with:
