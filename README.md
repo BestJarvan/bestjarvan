@@ -1,8 +1,6 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
 <!--     <img src="https://vercel.jiangyh.cn/?lines=Hello,+There!+👋;This+is+Yahui+Jiang...;Nice+to+meet+you!&center=true&size=30"> -->
-    <img src="https://github.com/BESTJARVAN/BESTJARVAN/raw/text/typing.svg">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://github.com/BESTJARVAN/BESTJARVAN/raw/text/typing.svg"></a>
 </h1>
 
 <picture>
